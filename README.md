@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmvb
+- 👋 Hi, I’m Thomas von Büren
 - 👀 I’m interested in e-ink displays for netatmo weather station
 
 <!---
